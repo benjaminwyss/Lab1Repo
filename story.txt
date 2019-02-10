@@ -1,3 +1,7 @@
 this is a story with one line of text.
 Adding some more text to the story.
+<<<<<<< HEAD
 I also want to change the 3rd line of the story
+=======
+This new branch didn't like the alternative story.
+>>>>>>> merger
